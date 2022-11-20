@@ -4,7 +4,7 @@ This is a Flask web app for trading on the New York Stock Exchange (NYSE), using
 
 Features include:
 - User registration and login (allows cookies)
-- Getting quote prices of stocks.
+- Getting live price quotes of stocks.
 - Buying and selling stocks.
 - Access to live account value (cash + stock value)
 - Access to account transaction history.
