@@ -1,6 +1,6 @@
 # CS50 Finance
 
-This is a Flask web app for trading on the New York Stock Exchange (NYSE), using live trading prices from IEX Cloud.
+This is a Python Flask web app for trading on the New York Stock Exchange (NYSE), using live trading prices from IEX Cloud.
 
 Features include:
 - User registration and login (allows cookies)
