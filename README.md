@@ -13,4 +13,4 @@ This is a project completed as part of CS50.
 
 # How to run the app
 
-Coming soon. Sorry!
+Coming soon.
